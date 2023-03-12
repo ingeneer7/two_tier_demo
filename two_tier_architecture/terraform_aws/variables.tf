@@ -1,4 +1,4 @@
-variable "regiom" {}
+variable "region" {}
 variable "vpc_cidr" {}
 variable "public_az1_cidr" {}
 variable "public_az2_cidr" {}
